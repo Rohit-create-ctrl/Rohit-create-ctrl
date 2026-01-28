@@ -1,4 +1,4 @@
-## hi, there welcome to my profile
+## hi, welcome to my profile
 # 💫 About Me:
 Dev
 Working on languages 
