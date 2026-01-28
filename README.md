@@ -1,6 +1,7 @@
-## Hi there 👋
-# 💫 About Me:# 💫 About Me:
+## hi 
+# 💫 About Me:# 
 Dev
+Working on languages 
 
 
 ## 🌐 Socials:
