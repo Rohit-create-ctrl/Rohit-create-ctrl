@@ -1,7 +1,6 @@
 ## hi, welcome to my profile
 # 💫 About Me:
 Dev
-
 Working on languages 
 
 
