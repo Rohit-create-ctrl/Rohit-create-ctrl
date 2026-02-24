@@ -5,7 +5,7 @@ Working on languages
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nocap_rohit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ROHIT) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nocap_rohit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ROHIT) [![Discord](https://img.shields.io/badge/Discord-%23E60023.svg?logo=discord&logoColor=white)](https://discord.com/rohit7310)  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rohit-create-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohit-create-ctrl&theme=dark&hide_border=false)<br/>
