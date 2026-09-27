@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Computer Science Student  
-⚡ Mern Stack Developer 
+⚡ Mern Stack Developer       
 🐍 Exploring Python, AI, and Backend Development  
 🚀 Building projects to gain practical experience  
 📖 Continuously improving through coding and learning  
